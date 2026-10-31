@@ -1,6 +1,6 @@
 # Aidahsanyu4-
-Hi, I'm Aidah Sanyu | Frontend Developer | Kampala, UG Building Kampala Cafe - Sanyu's Brew ☕  Tech: HTML, CSS, JavaScript Live site: https://aidahsanyu4.github.io/ LinkedIn: [
-### Hi, I'm Aidah Sanyu 👋 | Frontend Developer | Kampala, UG
+Hi, I'm Naluggwa Sanyu| Frontend Developer | Kampala, UG Building Kampala Cafe - Sanyu's Brew ☕  Tech: HTML, CSS, JavaScript Live site: https://aidahsanyu4.github.io/ LinkedIn: [
+### Hi, I'm Naluggwa Sanyu 👋 | Frontend Developer | Kampala, UG
 
 I build warm, responsive websites for local businesses. Currently building **Sanyu's Brew - Kampala Cafe**, a full cafe ordering experience.
 
