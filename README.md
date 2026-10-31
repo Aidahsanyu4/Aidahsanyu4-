@@ -21,8 +21,8 @@ I build warm, responsive websites for local businesses. Currently building **San
 **Tech:** HTML5, CSS3, JavaScript, GitHub Pages
 **Features:** Mobile-first design, round image menu, UGX pricing, Pexels optimized images
 
-![Kampala Cafe Preview](https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg)
-
+![Kampala Cafe Preview]
+(https://www.google.com/collections/s/list/2pWq6Crxc-LeNC1-WwS0Hw/irRRUTrwKtY)
 [View Live Site]
 https://aidahsanyu4.github.io/
 [See Menu Code]
