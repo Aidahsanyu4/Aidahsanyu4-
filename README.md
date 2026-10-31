@@ -4,7 +4,7 @@ Hi, I'm Aidah Sanyu | Frontend Developer | Kampala, UG Building Kampala Cafe - S
 
 I build warm, responsive websites for local businesses. Currently building **Sanyu's Brew - Kampala Cafe**, a full cafe ordering experience.
 
-**Live Cafe:** https://aidahsanyu4.github.io/
+**Live Cafe:** https://aidahsanyu4.github.io/HTML-projects/Cafe-menu/:
 **Location:** Kampala, Uganda
 
 ---
@@ -26,7 +26,7 @@ I build warm, responsive websites for local businesses. Currently building **San
 [View Live Site]
 https://aidahsanyu4.github.io/
 [See Menu Code]
-https://aidahsanyu4.github.io/HTML-projects/Cafe-menu/
+https://Aidahsanyu4.github.io/
 
 ---
 
@@ -41,7 +41,7 @@ https://aidahsanyu4.github.io/HTML-projects/Cafe-menu/
 
 #### 📫 Connect With Me
 - **LinkedIn:** []
-- **GitHub Pages:** https://aidahsanyu4.github.io/
+- **GitHub Pages:** https://Aidahsanyu4.github.io/
 - **Email:** aidahsanyu4@gmail.com
 
 ---
